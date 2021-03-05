@@ -16,7 +16,7 @@ defined('_JEXEC') or die('Restricted access');
 <div class="custom-ogwn-player">
 <div class="live-player-container">
 <div class="iframe-container">
-  <iframe class="iframe" src="https://player.twitch.tv/?channel=onegreatworknetwork&amp;parent=onegreatworknetwork.com&amp;parent=www.onegreatworknetwork.com&muted=false&volume=0.75" frameborder="0" allowfullscreen="true" scrolling="no" width="100%" height="300px"></iframe>
+  <iframe class="iframe" src="https://player.twitch.tv/?channel=onegreatworknetwork&amp;parent=onegreatworknetwork.com&amp;parent=www.onegreatworknetwork.com&muted=false&volume=1.0" frameborder="0" allowfullscreen="true" scrolling="no" width="100%" height="300px"></iframe>
 </div>
 <?php
 $app = JFactory::getApplication();
